@@ -56,5 +56,17 @@ You can view the project presentation slides in the following format:
 5. **Results and Reports**:
    - Backend: PHP scripts for generating election results and statistics by querying the MySQL database. This data can be presented in various formats, such as tables or charts, for administrators to analyze and generate reports.
 
+## UML Diagram
+
+1. **Use Case Diagram**:
+   
+   <img src="UCD.png" alt="preview">
+3. **Sequence Diagram**:
+   
+   <img src="SD.png" alt="preview">
+5. **Class Diagram**:
+   
+   <img src="CD.jpg" alt="preview">
+
 ## Project Preview
 <img src="Screenshot 2024-04-08 172039.png" alt="preview">
