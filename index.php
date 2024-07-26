@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>E-voting</title>
-    <link rel="shortcut icon" href="./Store/Logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="./Logo.png" type="image/x-icon">
     <link rel="stylesheet" href="./styles.css">
     <style>
         body{
@@ -62,7 +62,7 @@
 </head>
 <body>
     <section class="lgd" >
-        <img class="logo" src="./Store/Logo.png" alt="logo">
+        <img class="logo" src="./Logo.png" alt="logo">
     </section>
     <div class="slogan">
         <p>Vote for Change, Vote for Progress!</p>
