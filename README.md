@@ -30,6 +30,8 @@ The code for this project is available in the [repository](https://github.com/Ro
 The project is deployed at the following URL:
 - https://voteforchangevoteforprogress.000webhostapp.com/
 
+AWS deployment URL - http://13.127.50.81:5176/
+
 ## Presentation
 
 You can view the project presentation slides in the following format:
